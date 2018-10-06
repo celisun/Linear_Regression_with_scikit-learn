@@ -1,4 +1,4 @@
-# House Price Prediction on Kaggle
+# Linear Regression Practice
 
 ## Multiple linear regression approaches, e.g. OLS, KNN, Ridge, LASSO, on Kaggle problem house price prediction.
 
