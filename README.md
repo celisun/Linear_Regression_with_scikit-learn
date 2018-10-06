@@ -2,7 +2,7 @@
 
 Multiple linear regression approaches, e.g. OLS, KNN, Ridge, LASSO, on Kaggle problem house price prediction.
 
-It will also be a good practice for dataset splitting and cross validation.
+It is also be a good practice for dataset splitting and cross validation.
 
 It is a practice for feature (model) selection, including Forward and Backward Stepwise Regression (FSR, BSR).
 
