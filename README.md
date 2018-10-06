@@ -1,8 +1,10 @@
 ## House Price Prediction on Kaggle
 
-OLS, KNN, Ridge, LASSO and feature selection (FSR, BSR), on Kaggle problem house price prediction.
+Multiple linear regression approaches, e.g. OLS, KNN, Ridge, LASSO, on Kaggle problem house price prediction.
 
 It will also be a good practice for dataset splitting and cross validation.
+
+It is a practice for feature (model) selection, including Forward and Backward Stepwise Regression (FSR, BSR).
 
 the Jupyter notebook summarizes the training report of multiple approaches.
 
