@@ -1,6 +1,6 @@
-# Linear Regression Practice on House Price Prediction
+# Linear Regression Practice using scikit-learn
 
-## Multiple linear regression approaches (OLS, KNN, Ridge, LASSO) on Kaggle problem house price prediction.
+## OLS, KNN, Ridge, LASSO, etc: Kaggle problem house price prediction.
 
 It is also be a good practice for dataset splitting and cross validation.
 
