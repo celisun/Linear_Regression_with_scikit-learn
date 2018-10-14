@@ -1,6 +1,6 @@
 # Linear Regression Practice using scikit-learn
 
-## OLS, KNN, Ridge, LASSO, etc: Kaggle problem house price prediction.
+## OLS, KNN, Ridge, LASSO with cross validation: Kaggle problem house price prediction.
 
 It is also be a good practice for dataset splitting and cross validation.
 
